@@ -9,7 +9,7 @@ const Services = () => {
                 <Section
                     title="Our Services"
                     color="text-white"
-                    style="font-[400] text-2xl"
+                    className="font-[400] text-2xl"
                 />
                 <TabServices />
             </div>

@@ -9,7 +9,7 @@ const Contact = () => {
                 <Section
                     title="Let’s Collaborate"
                     color="text-white"
-                    style="font-[400] text-2xl"
+                    className="font-[400] text-2xl"
                 />
 
                 <div className='flex md:items-start justify-center items-center flex-col'>

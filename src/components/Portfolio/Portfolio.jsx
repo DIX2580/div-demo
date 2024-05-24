@@ -36,7 +36,7 @@ const Portfolio = () => {
                 <Section
                     title="Our Portfolio"
                     color="text-white"
-                    style="font-[400] text-2xl"
+                    className="uppercase font-source-sans bg-[#1F1F39] text-white px-12 py-3 rounded-xl text-2xl"
                 />
                 <div>
                     <p className='mb-14 text-xl md:text-4xl font-bold text-center'>We envision a world where every idea, product, or <br /> service is brought to life through exceptional design.</p>
