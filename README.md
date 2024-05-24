@@ -1,5 +1,5 @@
 # DIV-DEMO
-Check out the live demo [here](https://div-demo.netlify.app/).
+Check out the live [here](https://div-demo.netlify.app/).
 
 
 ## Technologies Used
